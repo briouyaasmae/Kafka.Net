@@ -1,0 +1,21 @@
+D:\TimeManagement\TimeManagement.Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.deps.json
+D:\TimeManagement\TimeManagement.Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.runtimeconfig.json
+D:\TimeManagement\TimeManagement.Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.runtimeconfig.dev.json
+D:\TimeManagement\TimeManagement.Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.dll
+D:\TimeManagement\TimeManagement.Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.csproj.CoreCompileInputs.cache
+D:\TimeManagement\TimeManagement.Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.AssemblyInfoInputs.cache
+D:\TimeManagement\TimeManagement.Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.AssemblyInfo.cs
+D:\TimeManagement\TimeManagement.Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.pdb
+D:\TimeManagement\TimeManagement.Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.dll
+D:\TimeManagement\TimeManagement.Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.pdb
+D:\Simple app using kafka\Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.deps.json
+D:\Simple app using kafka\Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.runtimeconfig.json
+D:\Simple app using kafka\Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.runtimeconfig.dev.json
+D:\Simple app using kafka\Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.dll
+D:\Simple app using kafka\Streaming.Producer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.pdb
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.csprojAssemblyReference.cache
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.csproj.CoreCompileInputs.cache
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.AssemblyInfoInputs.cache
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.AssemblyInfo.cs
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.dll
+D:\Simple app using kafka\Streaming.Producer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Producer.pdb

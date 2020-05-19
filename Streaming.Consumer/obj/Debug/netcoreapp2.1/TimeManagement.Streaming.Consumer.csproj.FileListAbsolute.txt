@@ -1,0 +1,21 @@
+D:\TimeManagement\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.deps.json
+D:\TimeManagement\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.json
+D:\TimeManagement\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.dev.json
+D:\TimeManagement\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+D:\TimeManagement\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.csproj.CoreCompileInputs.cache
+D:\TimeManagement\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfoInputs.cache
+D:\TimeManagement\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfo.cs
+D:\TimeManagement\TimeManagement.Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
+D:\TimeManagement\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+D:\TimeManagement\TimeManagement.Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
+D:\Simple app using kafka\Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.deps.json
+D:\Simple app using kafka\Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.json
+D:\Simple app using kafka\Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.runtimeconfig.dev.json
+D:\Simple app using kafka\Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+D:\Simple app using kafka\Streaming.Consumer\bin\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.csprojAssemblyReference.cache
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.csproj.CoreCompileInputs.cache
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfoInputs.cache
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.AssemblyInfo.cs
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.dll
+D:\Simple app using kafka\Streaming.Consumer\obj\Debug\netcoreapp2.1\TimeManagement.Streaming.Consumer.pdb
